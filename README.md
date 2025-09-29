@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Marq
+# 👋 Hey, I’m Marq!
 
 💻 **Software & ML Engineering Student @ UC Davis**  
 🚀 Passionate about building tools at the intersection of **machine learning, software, and real-world impact**.  
