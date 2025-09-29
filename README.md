@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Marq
+# 🧑‍💻 System.out.println("Hello, World! Marq here... 👋");
 
 💻 **Software & ML Engineering Student @ UC Davis**  
 🚀 Passionate about building tools at the intersection of **machine learning, software, and real-world impact**.  
