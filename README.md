@@ -1,4 +1,4 @@
-<h1>🧑‍💻 System.out.println("Hello, World! I'm <span style="color:red">Marq</span>... 👋");</h1>
+<h1> System.out.println("Hello, World! I'm <span style="color:red">Marq</span>... 👋");</h1>
 
 - **Software & ML Engineering Student @ UC Davis**  
 - Passionate about building tools at the intersection of **machine learning, software, and real-world impact**.  
