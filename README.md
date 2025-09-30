@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 Involvement
+## 🧾 Involvement
 - **UC Davis AvenueE Program Advisor (PA)** → helping transfer students transition into engineering.  
 - **Google Developers Student Club (GDSC)** → secondary lead, ML & web projects.  
 - **Physics/Math/CS Club (PMCS)** → past research on elliptical universe modeling & solar system simulations in Python.  
