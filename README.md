@@ -1,8 +1,8 @@
 <h1>🧑‍💻 System.out.println("Hello, World! I'm <span style="color:red">Marq</span>... 👋");</h1>
 
 - **Software & ML Engineering Student @ UC Davis**  
-🚀 Passionate about building tools at the intersection of **machine learning, software, and real-world impact**.  
-🌱 Currently: working on projects in **web dev, ML apps, and Arduino prototyping**.  
+- Passionate about building tools at the intersection of **machine learning, software, and real-world impact**.  
+- Currently: working on projects in **web dev, ML apps, and Arduino prototyping**.  
 
 ---
 
@@ -15,10 +15,10 @@
 ---
 
 ## 🌟 Involvement
-- 📚 **UC Davis AvenueE Program Advisor (PA)** → helping transfer students transition into engineering.  
-- ⚡ **Google Developers Student Club (GDSC)** → secondary lead, ML & web projects.  
-- 🧮 **Physics/Math/CS Club (PMCS)** → past research on elliptical universe modeling & solar system simulations in Python.  
-- 🤝 **NSBE (National Society of Black Engineers)** member & **CAAA Leadership Scholar**.  
+- **UC Davis AvenueE Program Advisor (PA)** → helping transfer students transition into engineering.  
+- **Google Developers Student Club (GDSC)** → secondary lead, ML & web projects.  
+- **Physics/Math/CS Club (PMCS)** → past research on elliptical universe modeling & solar system simulations in Python.  
+- **NSBE (National Society of Black Engineers)** member & **CAAA Leadership Scholar**.  
 
 ---
 
