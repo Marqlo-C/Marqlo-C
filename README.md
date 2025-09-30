@@ -56,4 +56,4 @@
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/marq-lott)  
-- 📧 [mclott@ucdavis.edu](mailto:mclott@ucdavis.edu)
+- 📧 [*mclott@ucdavis.edu*](mailto:mclott@ucdavis.edu)
