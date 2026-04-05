@@ -35,7 +35,7 @@ Right now I'm focused on **AI tooling, prompt engineering, and cloud/CI-CD** —
 - **CAAA Leadership Scholar & Student Alumni Association** → UC Davis alumni scholarship recipient and active SAA member.
 - **NSBE (National Society of Black Engineers)** → active member.
 - **Google Developers Student Club (GDSC)** → learning developer, 2024–2025 cohort.
-- **UC Davis AvenueE Program Advisor (PA)** → supporting transfer students transitioning into engineering.
+- **UC Davis AvenueE Program Advisor (PA)** → mentoring community college transfer students — women, first-generation, and underrepresented students in engineering and CS — through their transition to UC Davis.
 - **Physics/Math/CS Club (PMCS)** → past research on elliptical universe modeling and solar system simulations in Python.
 
 ---
