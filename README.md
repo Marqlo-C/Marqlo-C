@@ -18,7 +18,7 @@ Right now I'm focused on **AI tooling, prompt engineering, and cloud/CI-CD** —
 
 ## 🔨 Projects
 
-- **[Toes Down](https://toesdown.vercel.app)**: Multiplayer "Heads Up"–style mobile word game. Tilt to score, tilt up to skip. (TypeScript/React, Next.js)
+- **[Toes Down](https://toesdown.vercel.app)**: Multiplayer "Heads Up"–style mobile word game. Up/down to score, left/right up to skip. (TypeScript/React, Next.js)
 - **[Embergency](https://github.com/Marqlo-C/Embergency--Wildfire_Response_Tool)**: Wildfire & cell-tower alert tool built at HackDavis 2025. Overlays real-time fire data with comms tower locations to identify dead zones for first responders. (React, Next.js, Google Maps API, OpenCellID)
 - **[Ms. Pac-Man Agent](https://github.com/Marqlo-C/Ms_Pac-Man--Agent)**: Reinforcement learning agent using Deep Q-Networks (DQN), including standard and bonus agents. (Python, Jupyter)
 - **[Connect 4 AI](https://github.com/Marqlo-C/Connect_4_Player--Agent)**: Game engine with minimax, alpha-beta pruning, and Monte Carlo agents. (Python)
